@@ -1,0 +1,97 @@
+.navbar{
+    background-color: #fff !important;
+}
+.btn_see{
+    background-color: blueviolet;
+    border-color:blueviolet;
+}
+.btn_contact{
+    color: blueviolet;
+    border-color:  blueviolet;
+}
+.btn_see:hover{
+    background-color: rgb(108, 33, 179);
+    border-color:rgb(108, 33, 179);
+}
+.btn_contact:hover{
+    border-color:black;
+    background-color: black;
+    color: blueviolet;
+}
+.circle1{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    top:250px;
+    left: 290px;
+}
+.circle2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(229, 139, 74);
+    top: 250px;
+    left: 395px;
+}
+.section1{
+    background-color: black;
+}
+.freepik{
+    color: blueviolet;
+}
+.direction{
+    background-color: rgb(221, 216, 216);
+}
+.buy{
+    background-color: #fff;
+}
+.buy_button{
+    background-color: rgb(229, 139, 74);
+    color: #fff;
+}
+.buy_button:hover{
+    background-color: rgb(222, 135, 72);
+    color: #fff;
+}
+.btn_read{
+    background-color: #fff;
+}
+.btn_read:hover{
+    border-color: rgb(108, 33, 179);
+    color: rgb(108, 33, 179);
+}
+.section4{
+    background-color: rgb(137, 70, 200);
+}
+.freepik2{
+    color: #fff;
+}
+.btn_contact2{
+    border-color:  #fff;
+    color: #fff;
+}
+.btn_contact2:hover{
+    background-color: rgb(137, 70, 200);
+    border-color: rgb(137, 70, 200);
+}
+.circle3{
+    height: 150px;
+    width: 150px;
+    background-color: #fff;
+    top: 420px;
+    left: 320px;
+}
+.circle4{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(229, 139, 74);
+    top: 420px;
+    left: 400px;
+}
+.section5{
+    background-color: black;
+}
+input{
+    border: none;
+    border-bottom: 1px solid #fff ;
+    background-color: black;
+}
